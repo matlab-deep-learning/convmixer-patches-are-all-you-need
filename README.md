@@ -27,5 +27,5 @@ The license is available in the license file within this repository.
 
 Copyright 2021 The MathWorks, Inc.
 
-[1] Krizhevsky, Alex. "Learning multiple layers of features from tiny images." (2009). https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf
+[1] Krizhevsky, Alex. "Learning multiple layers of features from tiny images." (2009). https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf <br>
 [2] Loshchilov, Ilya, and Frank Hutter. "Fixing weight decay regularization in ADAM." (2018). https://openreview.net/forum?id=rk6qdGgCZ
