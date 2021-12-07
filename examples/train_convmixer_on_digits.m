@@ -6,7 +6,7 @@
 % Copyright 2021 The MathWorks, Inc.
 
 [XTrain, TTrain] = digitTrain4DArrayData;
-[XTest, TTest] = digitTest4DArrayData;
+[XTest, TTest]   = digitTest4DArrayData;
 
 % Build a ConvMixer layergraph
 lg = convMixerLayers( ...
