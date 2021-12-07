@@ -7,7 +7,7 @@ function lgraph = convMixerLayers(opts)
 %
 % lgraph = convMixerLayers(PARAM1=VAL1,PARAM2=VAL2,...) specifies optional
 % parameter name/value pairs for creating the layer graph:
-% 
+%
 %       'InputSize'           - Size of the input images.
 %
 %       'NumClasses'          - Number of classes the network predicts.
@@ -21,7 +21,7 @@ function lgraph = convMixerLayers(opts)
 %       'Depth'               - Number of repeated fully-convolutional
 %                               blocks.
 %
-%       'HiddenDimension'     - Number of channels output by the patch 
+%       'HiddenDimension'     - Number of channels output by the patch
 %                               embedding.
 %
 %       'ConnectOutputLayer'  - Determines whether to append a softmax and
@@ -29,7 +29,7 @@ function lgraph = convMixerLayers(opts)
 %                               returned LayerGraph object.
 %
 % Example:
-% 
+%
 %   lgraph = convMixerLayers(InputSize=[28 28 1], Depth=5, NumClasses=10)
 
 % Copyright 2021 The MathWorks, Inc.
